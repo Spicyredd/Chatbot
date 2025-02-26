@@ -26,22 +26,7 @@ cd project-root
 ### 2. Set Up Django Backend
 
 1. Ensure **Python** is installed.
-2. Create a virtual environment and activate it:
-
-   **Linux/macOS:**
-
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate
-   ```
-
-   **Windows:**
-
-   ```bash
-   python -m venv .venv
-   .venv\Scripts\activate
-   ```
-
+2. Create a virtual environment and activate it
 3. Install dependencies:
 
 ```bash
